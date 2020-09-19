@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 & Thanks for follow 👍
 
-## I also give talks from time to time (if you organize a conference & want to invite me, drop me a line @ radovan.kavicky(at)gmail.com/gapdata.org). 
+## I also give talks from time to time (if you organize a conference & want to invite me, drop me a line @ radovan.kavicky(at)gmail.com(or)gapdata.org). 
 
 ### Various selected in past: Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
 
