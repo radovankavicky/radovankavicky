@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm a data scientist.
+
+More about me here: https://www.linkedin.com/in/radovankavicky/
+
 <!--
 **radovankavicky/radovankavicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
