@@ -8,7 +8,7 @@
 
 #### • Data Science Instructor @ DataCamp, BaseCamp.ai, Learn2Code, Gopas, GapData
 
-#### • Member of Slovak Economic Association (SEA), Slovak.AI (#SlovakAI), CLAIRE & European AI Alliance 
+#### • Member of Slovak Economic Association (SEA), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE) & European AI Alliance (European Commission/Futurium)
 
 #### • Member of the Global Tableau #DataLeader network (from 2017)
 
