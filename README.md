@@ -27,7 +27,10 @@ Or here: https://www.kaggle.com/radovankavicky
 <img align="left" width="50px" src="https://www.lindinglab.science/external-files/images/Rlogo1.png" />
 <img align="left" width="50px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/animated-logo.gif" />
 <img align="left" alt="Julia" width="50px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/old-style/three-balls.png" />
+<img align="left" alt="H2O.ai" width="50px" src="https://www.h2o.ai/wp-content/uploads/2018/10/h2o-ai-square.png" /> 
+<img align="left" alt="Scikit-learn" width="50px" src="https://pbs.twimg.com/profile_images/1105548722/scikit-learn-logo.png" /> 
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Bokeh" width="50px" src="https://numfocus.org/wp-content/uploads/2018/03/Bokeh-Logo-Twitter.png" /> 
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <!--
