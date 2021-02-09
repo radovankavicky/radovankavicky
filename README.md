@@ -24,7 +24,7 @@ Or here: https://www.kaggle.com/radovankavicky
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://www.lindinglab.science/external-files/images/Rlogo1.png" />
 <img align="left" width="26px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/animated-logo.gif" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+<img align="left" alt="Julia" width="26px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/old-style/three-balls.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
