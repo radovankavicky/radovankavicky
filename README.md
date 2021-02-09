@@ -18,8 +18,7 @@ Or here: https://www.kaggle.com/radovankavicky
 
 #### Languages and Tools:
 
-<img align="left" alt="PyCharm" width="26px" src="https://commons.wikimedia.org/wiki/File:PyCharm_Logo.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://png2.cleanpng.com/sh/5ebb94c64abb39962ef372c1bc823079/L0KzQYm3VcA5N6d9fZH0aYP2gLBuTgB6a5lmit82aX73dbj5ggRmbF5pfehubHBzfbb1lL1mdqduitH3bXXxhH7xhgRjepJuRadqZkHncrXrg8UzPGE9Rqs7N0e6SYK6UcUzPWgAUas5MUizR4a1kP5o/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbddc52408.9277791315257999018075.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
