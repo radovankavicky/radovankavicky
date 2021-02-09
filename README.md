@@ -32,8 +32,8 @@ Or here: https://www.kaggle.com/radovankavicky
 <img align="left" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Bokeh" width="42px" src="https://numfocus.org/wp-content/uploads/2018/03/Bokeh-Logo-Twitter.png" />
 <img align="left" alt="Tableau + Salesforce" height="42px" src="https://2gb6lt1mlqep3cowtt3w2itr-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/tableausalesforce-1024x513.png" />
-<img align="left" alt="Azure" height="42px" src="https://www.vhv.rs/dpng/d/561-5613230_azure-logo-png-transparent-png.png" />
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Azure" height="42px" src="https://www.vhv.rs/dpng/d/561-5613230_azure-logo-png-transparent-png.png" />
 
 <!--
 **radovankavicky/radovankavicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
