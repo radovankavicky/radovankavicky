@@ -21,6 +21,8 @@ Or here: https://www.kaggle.com/radovankavicky
 <img align="left" alt="PyCharm" width="50px" src="https://png2.cleanpng.com/sh/5ebb94c64abb39962ef372c1bc823079/L0KzQYm3VcA5N6d9fZH0aYP2gLBuTgB6a5lmit82aX73dbj5ggRmbF5pfehubHBzfbb1lL1mdqduitH3bXXxhH7xhgRjepJuRadqZkHncrXrg8UzPGE9Rqs7N0e6SYK6UcUzPWgAUas5MUizR4a1kP5o/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbddc52408.9277791315257999018075.png" />
 <img align="left" alt="RStudio" width="50px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/5513265/original/RStudio-Ball/do-r-programming-and-statistics-with-r.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png
+" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="50px" src="https://www.lindinglab.science/external-files/images/Rlogo1.png" />
 <img align="left" width="50px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/animated-logo.gif" />
