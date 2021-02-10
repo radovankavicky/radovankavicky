@@ -1,4 +1,4 @@
-### Hi there 👋 & Thanks for follow 👍
+### Hi there <div align="center"> <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> </div> & Thanks for follow 👍
 
 ## I also give talks from time to time (if you organize a conference & want to invite me, drop me a line @ radovan.kavicky(at)gmail.com(or)gapdata.org). 
 
