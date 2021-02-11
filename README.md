@@ -6,7 +6,7 @@
 
 #### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia) & SK/CZ Tableau User Group (#skczTUG)
 
-#### • Data Science Instructor @ DataCamp, BaseCamp.ai, Learn2Code, Gopas, GapData
+#### • Data Science Instructor @ DataCamp, BaseCamp.ai, Learn2Code, GapData (in past also GOPAS and others)
 
 #### • Member of Slovak Economic Association (SEA), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium) & Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network)
 
@@ -31,6 +31,7 @@ Or here: https://www.kaggle.com/radovankavicky
 <img align="left" alt="Scikit-learn" width="42px" src="https://pbs.twimg.com/profile_images/1105548722/scikit-learn-logo.png" /> 
 <img align="left" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Bokeh" width="42px" src="https://numfocus.org/wp-content/uploads/2018/03/Bokeh-Logo-Twitter.png" />
+<img align="left" alt="D3" width="42px" src="https://seeklogo.com/images/D/d3-logo-C1884590DC-seeklogo.com.png" />
 <img align="left" alt="Tableau + Salesforce" height="42px" src="https://2gb6lt1mlqep3cowtt3w2itr-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/tableausalesforce-1024x513.png" />
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Azure" height="42px" src="https://www.vhv.rs/dpng/d/561-5613230_azure-logo-png-transparent-png.png" />
