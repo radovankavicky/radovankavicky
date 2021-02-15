@@ -2,13 +2,13 @@
 
 ## I also give talks from time to time (if you organize a conference & want to invite me to give a talk, drop me a line @ radovan.kavicky(at)gmail.com(or)gapdata.org). 
 
-### Various selected in past: Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
+### Various selected in past: WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
 
-#### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia) & SK/CZ Tableau User Group (#skczTUG)
+#### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovaki (#EASlovakia)
 
 #### • Data Science Instructor @ DataCamp, BaseCamp.ai, Learn2Code, GapData (in past also GOPAS and others)
 
-#### • Member of Slovak Economic Association (SEA), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium), Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network) & UDSC (United Data Science Communities)/X-Europe Webinars Series
+#### • Member of Slovak Economic Association (SEA), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium), Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network), UDSC (United Data Science Communities)/X-Europe Webinars Series & The Python Software Foundation (PSF).
 
 #### • Member of the Global Tableau #DataLeader network (from 2017)
 
