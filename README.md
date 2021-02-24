@@ -6,9 +6,15 @@
 
 #### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovaki (#EASlovakia)
 
+#### • Data Science Polyglot (R, Python, Julia ++more) & Data Science Veteran (10+ years in this area/Data Science consulting, education & community building)
+
 #### • Data Science Instructor @ DataCamp, BaseCamp.ai, Learn2Code, GapData (in past also GOPAS and others)
 
-#### • Member of Slovak Economic Association (SEA), IEEE. Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium), Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network), UDSC (United Data Science Communities)/X-Europe Webinars Series & The Python Software Foundation (PSF).
+#### • Macroeconomist by academic background and Consultant & Data Scientist by professional background (10+ years of consulting for clients from public & private sector)
+
+#### • Member of Slovak Economic Association (SEA, Member @ EEA/European Economic Association & IEA/International Economic Association), IEEE Computer Society (Member, #IEEE, #IEEECS), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium), Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network), UDSC (United Data Science Communities)/X-Europe Webinars Series & The Python Software Foundation (PSF).
+
+#### • Specialities/Main area of expertise (hard skills): Econometrics, Data Science, Artificial Intelligence, Machine Learning, Deep Learning (AI/ML/DL), Ethics & Transparency in AI/ML, Economic Policy (monetary&fiscal), Quantitative Analyses, Financial Modeling, Data Visualization, Explainable AI/ML
 
 #### • Member of the Global Tableau #DataLeader network (from 2017)
 
