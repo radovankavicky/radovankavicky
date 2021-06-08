@@ -25,7 +25,7 @@ Or here: https://www.kaggle.com/radovankavicky
 #### Languages and Tools:
 
 <img align="left" alt="Anaconda" width="41px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
-<img align="left" alt="PyCharm" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="PyCharm" width="41px" src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" />
 <img align="left" alt="RStudio" width="41px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/5513265/original/RStudio-Ball/do-r-programming-and-statistics-with-r.png" />
 <img align="left" alt="Visual Studio Code" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter" width="41px" src="https://www.pikpng.com/pngl/m/281-2814765_anaconda-clipart-python-logo-pictures-png-anaconda-jupyter.png" />
