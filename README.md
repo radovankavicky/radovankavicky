@@ -2,9 +2,9 @@
 
 ## I also give talks from time to time (if you organize a conference & want to invite me to give a talk, drop me a line @ radovan.kavicky(at)gmail.com(or)gapdata.org). 
 
-### Various selected in past: WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
+### Various selected in past: Machine Learning Prague (#MLPrague, 2022/upcoming), Data Science Summit (Warsaw, 2021/upcoming), ODSC Europe (London, 2021), WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
 
-#### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovaki (#EASlovakia)
+#### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovakia (#EASlovakia)
 
 #### • Data Science Polyglot (R, Python, Julia ++more) & Data Science Veteran (10+ years in this area/Data Science consulting, education & community building)
 
