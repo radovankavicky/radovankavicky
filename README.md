@@ -7,7 +7,7 @@
 <img align="center" height="41px" src="[[https://www.vhv.rs/dpng/d/561-5613230_azure-logo-png-transparent-png.png](https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg)" /> 
 
 ## Contributions
-  <img alt="snake eating my contributions" src="[[https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg)" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
