@@ -5,7 +5,7 @@
 ### Various selected in past: Machine Learning Prague (#MLPrague, 2022/upcoming), Data Science Summit (Warsaw, 2021/upcoming), ODSC Europe (London, 2021), WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
 
 ## Contributions
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
