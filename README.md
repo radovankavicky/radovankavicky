@@ -6,7 +6,7 @@
 
 ## Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/>
 </div>
 
 #### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovakia (#EASlovakia)
