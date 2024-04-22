@@ -4,6 +4,8 @@
 
 ### Various selected in past: Machine Learning Prague (#MLPrague, 2022/upcoming), Data Science Summit (Warsaw, 2021/upcoming), ODSC Europe (London, 2021), WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
 
+<img align="center" alt="Azure" height="41px" src="[[https://www.vhv.rs/dpng/d/561-5613230_azure-logo-png-transparent-png.png](https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg)" /> 
+
 #### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovakia (#EASlovakia)
 
 #### • Data Science Polyglot (R, Python, Julia ++more) & Data Science Veteran (10+ years in this area/Data Science consulting, education & community building)
