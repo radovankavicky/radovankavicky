@@ -11,6 +11,10 @@
   <br/><br/><br/>
 </div>
 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 #### • Founder of PyData Slovakia/Bratislava (#PyDataSK #PyDataBA), R <- Slovakia (#RSlovakia), Julia Users Group Slovakia (#JUGSlovakia), SK/CZ Tableau User Group (#skczTUG) & Effective Altruism Slovakia (#EASlovakia)
 
 #### • Data Science Polyglot (R, Python, Julia ++more) & Data Science Veteran (10+ years in this area/Data Science consulting, education & community building)
