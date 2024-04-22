@@ -2,7 +2,7 @@
 
 ## I also give talks from time to time (if you organize a conference & want to invite me to give a talk, drop me a line @ radovan.kavicky(at)gmail.com(or)gapdata.org). 
 
-### Various selected in past: Machine Learning Prague (#MLPrague, 2022/upcoming), Data Science Summit (Warsaw, 2021/upcoming), ODSC Europe (London, 2021), WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), EA Slovakia (2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
+### Various selected in past:  Global AI Show (Dubai, 2024), WeAreDevelopers (Berlin, 2023), TAILOR (Brussel, 2023), CODECON (Bratislava, 2023), DATAcated (New York, 2022), PyData (Hamburg, 2022), Machine Learning Prague (#MLPrague, 2023, 2022), Data Science Summit (Warsaw, 2024, 2021), PyData (Hong Kong, 2021), ODSC Europe (London, 2021), WeAreDevelopers (WeAreDevsLIVE, 2021), Data Science Conference (DSG 5.0, 2019), H2O.ai (Prague, 2019), PyCon LT (PyData Track, Vilnius, 2019), Vienna Data Science Group/VDSG (Linz, 2019), TechSummit (Bratislava, 2017 & 2019), OpenCamp (Bratislava, 2019) PyData (Berlin, 2017)
 
 ## Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/radovankavicky/GlobalAIShow2024/main/github-contribution-grid-snake.svg" />
@@ -17,11 +17,13 @@
 
 #### • Macroeconomist by academic background and Consultant & Data Scientist by professional background (10+ years of consulting for clients from public & private sector)
 
-#### • Member of Slovak Economic Association (SEA, Member @ EEA/European Economic Association & IEA/International Economic Association), IEEE Computer Society (Member, #IEEE, #IEEECS), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium), Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network), UDSC (United Data Science Communities)/X-Europe Webinars Series & The Python Software Foundation (PSF).
+#### • Member British Computer Society (Member, #BCS), Member of Slovak Economic Association (SEA, Member @ EEA/European Economic Association & IEA/International Economic Association), IEEE Computer Society (Member, #IEEE, #IEEECS), Slovak Research Center for Artificial Intelligence/Slovak.AI (#SlovakAI), Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE), European AI Alliance (European Commission/Futurium), Trustworthy AI - Integrating Learning, Optimisation and Reasoning (TAILOR network), AAAI, EurAI, AI4SK, ELLIS, UDSC (United Data Science Communities)/X-Europe Webinars Series & The Python Software Foundation (PSF).
 
 #### • Specialities/Main area of expertise (hard skills): Econometrics, Data Science, Artificial Intelligence, Machine Learning, Deep Learning (AI/ML/DL), Ethics & Transparency in AI/ML, Economic Policy (monetary&fiscal), Quantitative Analyses, Financial Modeling, Data Visualization, Explainable AI/ML
 
 #### • Member of the Global Tableau #DataLeader network (from 2017)
+
+#### • U.S. Department of State's & the Atlantic Council GeoTech Center's Artificial Intelligence (AI) Connect program (2024) 
 
 More about me here: https://www.linkedin.com/in/radovankavicky/
 
